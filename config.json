@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "Habi-Viper",
+    "version": "1.0.0",
+    "author": "Ahmad Rizky Nusantara Habibi"
+  },
+  "database": {
+    "show_sql": true,
+    "host": "localhost",
+    "port": 3306
+  }
+}
